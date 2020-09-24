@@ -1,6 +1,6 @@
 # Linear vs Binary search
 
-Just a small test for when linear search is faster.
+Just a small test for when linear search is faster than binary search.
 
 ## Usage
 
@@ -21,7 +21,7 @@ For reference, my computer has 16 GB of ram and an 8 core i7-7700HQ @ 2.8GHz (la
 
 ### Data
 
-size | linear | binary
+size (2^n) | linear | binary
 -----|--------|-------
 0 | 0.033333 | 0.033333
 1 | 0.033333 | 0.033333
